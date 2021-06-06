@@ -6,7 +6,7 @@ Example:
 
 from pylab import dict
 
-var = dict("apple, banana: 20 ; mango, tea: True ; habit = 'good'")
+var = dict("apple, banana: 20 ; mango, tea: True ; habit : 'good'")
 
 print(var)
 
