@@ -10,9 +10,11 @@ var = dict("apple, banana: 20 ; mango, tea: True ; habit = 'good'")
 
 print(var)
 
+
 Output:
 
 {'apple': 20, 'banana': 20, 'mango': True, 'tea': True, 'habit': 'good'}
+
 
 Explanation:
 
@@ -34,6 +36,7 @@ Advantages:
 (iii) Assigns several keys consisting of same value more quickly
 
 (iv) Reduces coding when working with many key-value pairs
+
 
 
 Disadvantages:
